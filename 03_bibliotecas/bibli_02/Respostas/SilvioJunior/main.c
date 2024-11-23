@@ -76,6 +76,10 @@ int main (){
             PrintarInformacoes();
             return 0;
         }
+        else if(!possible_matrix_multiply(cols1, rows2)){
+            PrintarInformacoes();
+            printf("Erro: o numero de colunas da primeira matriz eh diferente do numero de linhas da segunda matriz\n\n");
+        }
         else {
             PrintarInformacoes();
             printf("Erro: as dimensoes da matriz nao correspondem\n\n");
