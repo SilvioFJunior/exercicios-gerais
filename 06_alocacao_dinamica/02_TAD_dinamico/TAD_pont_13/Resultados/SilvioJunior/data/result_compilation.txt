@@ -1,0 +1,4 @@
+data.c: In function ‘CalculaIdadeData’:
+data.c:53:9: warning: unused variable ‘idade’ [-Wunused-variable]
+   53 |     int idade;
+      |         ^~~~~

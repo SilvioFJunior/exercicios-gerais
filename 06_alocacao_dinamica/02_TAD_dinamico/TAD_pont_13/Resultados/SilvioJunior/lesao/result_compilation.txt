@@ -1,0 +1,7 @@
+lesao.c: In function ‘LeLesao’:
+lesao.c:32:12: warning: ‘return’ with a value, in function returning void [-Wreturn-type]
+   32 |     return l;
+      |            ^
+lesao.c:25:6: note: declared here
+   25 | void LeLesao(tLesao* l){
+      |      ^~~~~~~

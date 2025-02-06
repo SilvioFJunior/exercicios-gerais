@@ -1,0 +1,11 @@
+data.c: In function ‘CalculaIdadeData’:
+data.c:53:9: warning: unused variable ‘idade’ [-Wunused-variable]
+   53 |     int idade;
+      |         ^~~~~
+lesao.c: In function ‘LeLesao’:
+lesao.c:32:12: warning: ‘return’ with a value, in function returning void [-Wreturn-type]
+   32 |     return l;
+      |            ^
+lesao.c:25:6: note: declared here
+   25 | void LeLesao(tLesao* l){
+      |      ^~~~~~~
