@@ -1,0 +1,12 @@
+ponto.c: In function ‘pto_distancia’:
+ponto.c:44:17: warning: implicit declaration of function ‘sqrt’ [-Wimplicit-function-declaration]
+   44 |     distancia = sqrt((resultadoX * resultadoX) + (resultadoY * resultadoY));
+      |                 ^~~~
+ponto.c:2:1: note: include ‘<math.h>’ or provide a declaration of ‘sqrt’
+    1 | #include "ponto.h"
+  +++ |+#include <math.h>
+    2 | 
+ponto.c:44:17: warning: incompatible implicit declaration of built-in function ‘sqrt’ [-Wbuiltin-declaration-mismatch]
+   44 |     distancia = sqrt((resultadoX * resultadoX) + (resultadoY * resultadoY));
+      |                 ^~~~
+ponto.c:44:17: note: include ‘<math.h>’ or provide a declaration of ‘sqrt’
