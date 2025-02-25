@@ -74,4 +74,3 @@ Escolha uma opcao:
 1505 efghijklmnopqr
 1242 stuvwxyzabc
 640 33 44 10 21 6 27 17 14 3 23 19 42 48 4 30 41 12 35 15 36 7 34 38 1 46 26 8
- 

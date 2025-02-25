@@ -1,0 +1,38 @@
+==5689== Memcheck, a memory error detector
+==5689== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==5689== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==5689== Command: Resultados/SilvioJunior/pacote/prog Resultados/SilvioJunior/pacote/Casos/4
+==5689== Parent PID: 5688
+==5689== 
+==5689== Invalid write of size 1
+==5689==    at 0x48CF795: __vfscanf_internal (vfscanf-internal.c:3063)
+==5689==    by 0x48BFEC5: __isoc99_scanf (isoc99_scanf.c:30)
+==5689==    by 0x1096E0: LePacote (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==    by 0x1094EB: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==  Address 0x4a772b7 is 0 bytes after a block of size 7 alloc'd
+==5689==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5689==    by 0x1095FA: CriaPacote (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==    by 0x1094DB: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689== 
+==5689== Invalid read of size 1
+==5689==    at 0x484F234: strlen (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5689==    by 0x48CADA7: __printf_buffer (vfprintf-process-arg.c:435)
+==5689==    by 0x48CB73A: __vfprintf_internal (vfprintf-internal.c:1544)
+==5689==    by 0x48C01B2: printf (printf.c:33)
+==5689==    by 0x10978E: ImprimePacote (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==    by 0x109371: ImprimirTodosPacotes (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==    by 0x10955E: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==  Address 0x4a772b7 is 0 bytes after a block of size 7 alloc'd
+==5689==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5689==    by 0x1095FA: CriaPacote (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689==    by 0x1094DB: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_02/Resultados/SilvioJunior/pacote/prog)
+==5689== 
+==5689== 
+==5689== HEAP SUMMARY:
+==5689==     in use at exit: 0 bytes in 0 blocks
+==5689==   total heap usage: 8 allocs, 8 frees, 8,350 bytes allocated
+==5689== 
+==5689== All heap blocks were freed -- no leaks are possible
+==5689== 
+==5689== For lists of detected and suppressed errors, rerun with: -s
+==5689== ERROR SUMMARY: 2 errors from 2 contexts (suppressed: 0 from 0)
