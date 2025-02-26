@@ -1,0 +1,4 @@
+main.c: In function ‘main’:
+main.c:110:29: warning: statement with no effect [-Wunused-value]
+  110 |                 nTransacoes == conta->qtdMovimentacoes;
+      |                 ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
