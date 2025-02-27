@@ -1,0 +1,11 @@
+/usr/bin/ld: Resultados/SilvioJunior/agencia/banco.o: in function `DestroiBanco':
+banco.c:(.text+0x6d): undefined reference to `DestroiAgencia'
+/usr/bin/ld: Resultados/SilvioJunior/agencia/banco.o: in function `ImprimeRelatorioBanco':
+banco.c:(.text+0x13c): undefined reference to `ImprimeDadosAgencia'
+/usr/bin/ld: Resultados/SilvioJunior/agencia/banco.o: in function `InsereContaBanco':
+banco.c:(.text+0x1a3): undefined reference to `ComparaAgencia'
+/usr/bin/ld: banco.c:(.text+0x1ba): undefined reference to `AdicionaConta'
+/usr/bin/ld: Resultados/SilvioJunior/agencia/main.o: in function `main':
+main.c:(.text+0x5e): undefined reference to `CriaAgencia'
+/usr/bin/ld: main.c:(.text+0x6e): undefined reference to `LeAgencia'
+collect2: error: ld returned 1 exit status

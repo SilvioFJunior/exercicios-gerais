@@ -1,0 +1,224 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: SilvioJunior
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA SilvioJunior:
+ - Diretório Resultados/SilvioJunior criado com sucesso!
+ - Diretório Resultados/SilvioJunior/main criado com sucesso!
+ - Diretório Resultados/SilvioJunior/completo criado com sucesso!
+ - Diretório Resultados/SilvioJunior/aluno criado com sucesso!
+ - Diretório Resultados/SilvioJunior/vector criado com sucesso!
+ - Diretório Resultados/SilvioJunior/relatorio criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/SilvioJunior/aluno.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/aluno.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/main.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/relatorio.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/relatorio.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/vector.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/vector.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/aluno.h Includes/relatorio.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/main
+ - Removendo o main.o do professor da pasta Resultados/SilvioJunior/main
+ - Copiando o Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/aluno.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/aluno.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/relatorio.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/relatorio.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/vector.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/vector.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Pasta aluno:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/aluno
+ - Copiando os Includes/aluno.h Includes/relatorio.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/aluno
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/aluno
+ - Removendo o aluno.o do professor da pasta Resultados/SilvioJunior/aluno
+ - Copiando o Respostas/SilvioJunior/aluno.c do aluno para a pasta Resultados/SilvioJunior/aluno
+ - Pasta vector:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/vector
+ - Copiando os Includes/aluno.h Includes/relatorio.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/vector
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/vector
+ - Removendo o vector.o do professor da pasta Resultados/SilvioJunior/vector
+ - Copiando o Respostas/SilvioJunior/vector.c do aluno para a pasta Resultados/SilvioJunior/vector
+ - Pasta relatorio:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/relatorio
+ - Copiando os Includes/aluno.h Includes/relatorio.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/relatorio
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/relatorio
+ - Removendo o relatorio.o do professor da pasta Resultados/SilvioJunior/relatorio
+ - Copiando o Respostas/SilvioJunior/relatorio.c do aluno para a pasta Resultados/SilvioJunior/relatorio
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta aluno ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/aluno/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta vector ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta relatorio ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/relatorio/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_linking.txt
+ - Pasta aluno:
+ - Gerando o binário prog linkando com o(s) arquivo(s) aluno/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/aluno/result_linking.txt
+ - Pasta vector:
+ - Gerando o binário prog linkando com o(s) arquivo(s) vector/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/result_linking.txt
+ - Pasta relatorio:
+ - Gerando o binário prog linkando com o(s) arquivo(s) relatorio/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/relatorio/result_linking.txt
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 8, frees: 4, errors: 1 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 9, frees: 5, errors: 1 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 10, frees: 6, errors: 1 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta main (máximo 2.00) - 0 de 30 - 0% de 2.00: 0.
+ -----
+ - Pasta completo / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 13, frees: 17, errors: 4 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 50.0% (desconto do valgrind) = 5.00 de 10 pontos.
+ - Pasta completo / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 16, frees: 21, errors: 5 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 50.0% (desconto do valgrind) = 5.00 de 10 pontos.
+ - Pasta completo / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 18, frees: 24, errors: 6 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 50.0% (desconto do valgrind) = 5.00 de 10 pontos.
+ - Nota para a pasta completo (máximo 2.00) - 15.00 de 30 - 50.00% de 2.00: 1.00.
+ -----
+ - Pasta aluno / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/aluno/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta aluno / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/aluno/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 14, frees: 14, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta aluno / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/aluno/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 16, frees: 16, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta aluno (máximo 2.00) - 30.00 de 30 - 100.00% de 2.00: 2.00.
+ -----
+ - Pasta vector / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9, frees: 9, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta vector / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11, frees: 11, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta vector / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta vector (máximo 2.00) - 30.00 de 30 - 100.00% de 2.00: 2.00.
+ -----
+ - Pasta relatorio / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/relatorio/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 8, frees: 8, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta relatorio / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/relatorio/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9, frees: 9, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta relatorio / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/relatorio/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 10, frees: 10, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta relatorio (máximo 2.00) - 30.00 de 30 - 100.00% de 2.00: 2.00.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: SilvioJunior
+ - Arquivos Esperados Corretos: 7 de 7
+ - Pastas Compiladas Corretamente: 5 de 5 
+ - Pastas Linkadas Corretamente: 5 de 5
+ - Teste main
+ - Resultados corretos: 0 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste main: 0
+ - Teste completo
+ - Resultados corretos: 3 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste completo: 1.00
+ - Teste aluno
+ - Resultados corretos: 3 de 3
+ - Valgrinds corretos: 3 de 3
+ - Nota de SilvioJunior para o teste aluno: 2.00
+ - Teste vector
+ - Resultados corretos: 3 de 3
+ - Valgrinds corretos: 3 de 3
+ - Nota de SilvioJunior para o teste vector: 2.00
+ - Teste relatorio
+ - Resultados corretos: 3 de 3
+ - Valgrinds corretos: 3 de 3
+ - Nota de SilvioJunior para o teste relatorio: 2.00
+ - Nota de SilvioJunior: 0+(2.00)+(2.00)+(0)+(2.00)+(1.00)
+ - Nota de SilvioJunior: 7.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

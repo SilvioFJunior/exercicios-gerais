@@ -1,0 +1,5 @@
+/usr/bin/ld: Resultados/SilvioJunior/tSensorTemperatura/main.o: in function `main':
+main.c:(.text+0x1a6): undefined reference to `liberaSensorTemperatura'
+/usr/bin/ld: main.c:(.text+0x1b0): undefined reference to `processaSensorTemperatura'
+/usr/bin/ld: main.c:(.text+0x1fb): undefined reference to `leSensorTemperatura'
+collect2: error: ld returned 1 exit status

@@ -1,0 +1,265 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: SilvioJunior
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA SilvioJunior:
+ - Diretório Resultados/SilvioJunior criado com sucesso!
+ - Diretório Resultados/SilvioJunior/tSensorTemperatura criado com sucesso!
+ - Diretório Resultados/SilvioJunior/tMonitorador criado com sucesso!
+ - Diretório Resultados/SilvioJunior/completo criado com sucesso!
+ - Diretório Resultados/SilvioJunior/main criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/SilvioJunior/main.c' não encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/tMonitorador.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/tMonitorador.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/tSensorTemperatura.c' não encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/tSensorTemperatura.h' encontrado!
+ - Arquivos esperados enviados: Faltando!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta tSensorTemperatura:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/tSensorTemperatura
+ - Copiando os Includes/tMonitorador.h Includes/tSensorTemperatura.h do professor para a pasta Resultados/SilvioJunior/tSensorTemperatura
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/tSensorTemperatura
+ - Removendo o tSensorTemperatura.o do professor da pasta Resultados/SilvioJunior/tSensorTemperatura
+ - Copiando o Respostas/SilvioJunior/tSensorTemperatura.c do aluno para a pasta Resultados/SilvioJunior/tSensorTemperatura
+ - Pasta tMonitorador:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/tMonitorador
+ - Copiando os Includes/tMonitorador.h Includes/tSensorTemperatura.h do professor para a pasta Resultados/SilvioJunior/tMonitorador
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/tMonitorador
+ - Removendo o tMonitorador.o do professor da pasta Resultados/SilvioJunior/tMonitorador
+ - Copiando o Respostas/SilvioJunior/tMonitorador.c do aluno para a pasta Resultados/SilvioJunior/tMonitorador
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/tMonitorador.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/tMonitorador.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/tSensorTemperatura.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/tSensorTemperatura.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/tMonitorador.h Includes/tSensorTemperatura.h do professor para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/main
+ - Removendo o main.o do professor da pasta Resultados/SilvioJunior/main
+ - Copiando o Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/main
+ - Copiando Arquivos Extras do Aluno:
+ - Copiando Respostas/SilvioJunior/tSensorPresenca.h para Resultados/SilvioJunior/completo
+ - Copiando Respostas/SilvioJunior/tSensorPresenca.h para Resultados/SilvioJunior/main
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Erro de compilação! Verifique os arquivos da pasta tSensorTemperatura.
+ - Compilação dos arquivos do aluno na pasta tMonitorador ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_compilation.txt
+ - Erro de compilação! Verifique os arquivos da pasta main.
+ - Arquivos Compilados: Erro!: 2 arquivos com erros de compilacao.
+
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta tSensorTemperatura:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tSensorTemperatura/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/tSensorTemperatura/result_linking.txt
+ - Pasta tMonitorador:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tMonitorador/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_linking.txt
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_linking.txt
+ - Arquivos Linkados: Erro! 3 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta tSensorTemperatura / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta tSensorTemperatura / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta tSensorTemperatura (máximo 3.0) - 0 de 80 - 0% de 3.0: 0.
+ -----
+ - Pasta tMonitorador / Caso 01:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/01/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5, frees: 5, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 02:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/02/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5, frees: 5, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 03:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/03/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 8, frees: 8, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 04:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/04/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 17, frees: 17, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 05:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/05/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11, frees: 11, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 06:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/06/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 26, frees: 26, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 07:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/07/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta tMonitorador / Caso 08:
+ - Arquivo de output gerado: Resultados/SilvioJunior/tMonitorador/Casos/08/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 17, frees: 17, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta tMonitorador (máximo 2.0) - 80.00 de 80 - 100.00% de 2.0: 2.00.
+ -----
+ - Pasta completo / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta completo (máximo 2.0) - 0 de 80 - 0% de 2.0: 0.
+ -----
+ - Pasta main / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta main (máximo 3.0) - 0 de 80 - 0% de 3.0: 0.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: SilvioJunior
+ - Arquivos Esperados Corretos: 3 de 5
+ - Pastas Compiladas Corretamente: 2 de 4 
+ - Pastas Linkadas Corretamente: 1 de 4
+ - Teste tSensorTemperatura
+ - Resultados corretos: 0 de 8
+ - Valgrinds corretos: 0 de 8
+ - Nota de SilvioJunior para o teste tSensorTemperatura: 0
+ - Teste tMonitorador
+ - Resultados corretos: 8 de 8
+ - Valgrinds corretos: 8 de 8
+ - Nota de SilvioJunior para o teste tMonitorador: 2.00
+ - Teste completo
+ - Resultados corretos: 0 de 8
+ - Valgrinds corretos: 0 de 8
+ - Nota de SilvioJunior para o teste completo: 0
+ - Teste main
+ - Resultados corretos: 0 de 8
+ - Valgrinds corretos: 0 de 8
+ - Nota de SilvioJunior para o teste main: 0
+ - Nota de SilvioJunior: 0+(2.00)+(0)+(0)+(0)
+ - Nota de SilvioJunior: 2.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

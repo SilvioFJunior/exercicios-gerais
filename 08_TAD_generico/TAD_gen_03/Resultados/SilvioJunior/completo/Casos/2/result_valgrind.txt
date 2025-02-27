@@ -1,0 +1,28 @@
+==3125== Memcheck, a memory error detector
+==3125== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==3125== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==3125== Command: Resultados/SilvioJunior/completo/prog Resultados/SilvioJunior/completo/Casos/2
+==3125== Parent PID: 3124
+==3125== 
+==3125== Invalid free() / delete / delete[] / realloc()
+==3125==    at 0x484988F: free (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==3125==    by 0x1097F2: VectorDestroy (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/completo/prog)
+==3125==    by 0x1093F9: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/completo/prog)
+==3125==  Address 0x4a76250 is 0 bytes inside a block of size 16 free'd
+==3125==    at 0x484988F: free (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==3125==    by 0x109280: DestroiAluno (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/completo/prog)
+==3125==    by 0x1093D3: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/completo/prog)
+==3125==  Block was alloc'd at
+==3125==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==3125==    by 0x109223: CriaAluno (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/completo/prog)
+==3125==    by 0x109376: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/completo/prog)
+==3125== 
+==3125== 
+==3125== HEAP SUMMARY:
+==3125==     in use at exit: 0 bytes in 0 blocks
+==3125==   total heap usage: 16 allocs, 21 frees, 8,938 bytes allocated
+==3125== 
+==3125== All heap blocks were freed -- no leaks are possible
+==3125== 
+==3125== For lists of detected and suppressed errors, rerun with: -s
+==3125== ERROR SUMMARY: 5 errors from 1 contexts (suppressed: 0 from 0)

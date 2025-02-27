@@ -1,0 +1,30 @@
+==22387== Memcheck, a memory error detector
+==22387== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==22387== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==22387== Command: Resultados/SilvioJunior/conta/prog Resultados/SilvioJunior/conta/Casos/1
+==22387== Parent PID: 22386
+==22387== 
+==22387== Conditional jump or move depends on uninitialised value(s)
+==22387==    at 0x109664: InsereContaBanco (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_04/Resultados/SilvioJunior/conta/prog)
+==22387==    by 0x109874: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_04/Resultados/SilvioJunior/conta/prog)
+==22387== 
+==22387== 
+==22387== HEAP SUMMARY:
+==22387==     in use at exit: 264 bytes in 12 blocks
+==22387==   total heap usage: 26 allocs, 14 frees, 9,096 bytes allocated
+==22387== 
+==22387== 264 (144 direct, 120 indirect) bytes in 6 blocks are definitely lost in loss record 2 of 2
+==22387==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==22387==    by 0x1096B0: CriaConta (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_04/Resultados/SilvioJunior/conta/prog)
+==22387==    by 0x109834: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_04/Resultados/SilvioJunior/conta/prog)
+==22387== 
+==22387== LEAK SUMMARY:
+==22387==    definitely lost: 144 bytes in 6 blocks
+==22387==    indirectly lost: 120 bytes in 6 blocks
+==22387==      possibly lost: 0 bytes in 0 blocks
+==22387==    still reachable: 0 bytes in 0 blocks
+==22387==         suppressed: 0 bytes in 0 blocks
+==22387== 
+==22387== Use --track-origins=yes to see where uninitialised values come from
+==22387== For lists of detected and suppressed errors, rerun with: -s
+==22387== ERROR SUMMARY: 15 errors from 2 contexts (suppressed: 0 from 0)

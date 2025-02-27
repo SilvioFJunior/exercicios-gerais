@@ -1,0 +1,32 @@
+==2439== Memcheck, a memory error detector
+==2439== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==2439== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==2439== Command: Resultados/SilvioJunior/main/prog Resultados/SilvioJunior/main/Casos/1
+==2439== Parent PID: 2438
+==2439== 
+==2439== Jump to the invalid address stated on the next line
+==2439==    at 0x0: ???
+==2439==    by 0x1093F4: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/main/prog)
+==2439==  Address 0x0 is not stack'd, malloc'd or (recently) free'd
+==2439== 
+==2439== 
+==2439== Process terminating with default action of signal 11 (SIGSEGV)
+==2439==  Bad permissions for mapped region at address 0x0
+==2439==    at 0x0: ???
+==2439==    by 0x1093F4: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/08_TAD_generico/TAD_gen_03/Resultados/SilvioJunior/main/prog)
+==2439== 
+==2439== HEAP SUMMARY:
+==2439==     in use at exit: 8,288 bytes in 4 blocks
+==2439==   total heap usage: 8 allocs, 4 frees, 8,512 bytes allocated
+==2439== 
+==2439== LEAK SUMMARY:
+==2439==    definitely lost: 0 bytes in 0 blocks
+==2439==    indirectly lost: 0 bytes in 0 blocks
+==2439==      possibly lost: 0 bytes in 0 blocks
+==2439==    still reachable: 8,288 bytes in 4 blocks
+==2439==         suppressed: 0 bytes in 0 blocks
+==2439== Reachable blocks (those to which a pointer was found) are not shown.
+==2439== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==2439== 
+==2439== For lists of detected and suppressed errors, rerun with: -s
+==2439== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)

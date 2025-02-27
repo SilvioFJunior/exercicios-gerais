@@ -1,0 +1,251 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: SilvioJunior
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA SilvioJunior:
+ - Diretório Resultados/SilvioJunior criado com sucesso!
+ - Diretório Resultados/SilvioJunior/main criado com sucesso!
+ - Diretório Resultados/SilvioJunior/completo criado com sucesso!
+ - Diretório Resultados/SilvioJunior/agencia criado com sucesso!
+ - Diretório Resultados/SilvioJunior/vector criado com sucesso!
+ - Diretório Resultados/SilvioJunior/conta criado com sucesso!
+ - Diretório Resultados/SilvioJunior/banco criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/SilvioJunior/agencia.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/agencia.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/banco.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/banco.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/conta.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/conta.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/main.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/vector.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/vector.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/agencia.h Includes/banco.h Includes/conta.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/main
+ - Removendo o main.o do professor da pasta Resultados/SilvioJunior/main
+ - Copiando o Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/agencia.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/agencia.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/banco.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/banco.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/conta.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/conta.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/vector.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/vector.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Pasta agencia:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/agencia
+ - Copiando os Includes/agencia.h Includes/banco.h Includes/conta.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/agencia
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/agencia
+ - Removendo o agencia.o do professor da pasta Resultados/SilvioJunior/agencia
+ - Copiando o Respostas/SilvioJunior/agencia.c do aluno para a pasta Resultados/SilvioJunior/agencia
+ - Pasta vector:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/vector
+ - Copiando os Includes/agencia.h Includes/banco.h Includes/conta.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/vector
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/vector
+ - Removendo o vector.o do professor da pasta Resultados/SilvioJunior/vector
+ - Copiando o Respostas/SilvioJunior/vector.c do aluno para a pasta Resultados/SilvioJunior/vector
+ - Pasta conta:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/conta
+ - Copiando os Includes/agencia.h Includes/banco.h Includes/conta.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/conta
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/conta
+ - Removendo o conta.o do professor da pasta Resultados/SilvioJunior/conta
+ - Copiando o Respostas/SilvioJunior/conta.c do aluno para a pasta Resultados/SilvioJunior/conta
+ - Pasta banco:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/banco
+ - Copiando os Includes/agencia.h Includes/banco.h Includes/conta.h Includes/vector.h do professor para a pasta Resultados/SilvioJunior/banco
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/banco
+ - Removendo o banco.o do professor da pasta Resultados/SilvioJunior/banco
+ - Copiando o Respostas/SilvioJunior/banco.c do aluno para a pasta Resultados/SilvioJunior/banco
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta agencia ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/agencia/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta vector ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta conta ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/conta/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta banco ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/banco/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_linking.txt
+ - Pasta agencia:
+ - Gerando o binário prog linkando com o(s) arquivo(s) agencia/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/agencia/result_linking.txt
+ - Pasta vector:
+ - Gerando o binário prog linkando com o(s) arquivo(s) vector/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/result_linking.txt
+ - Pasta conta:
+ - Gerando o binário prog linkando com o(s) arquivo(s) conta/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/conta/result_linking.txt
+ - Pasta banco:
+ - Gerando o binário prog linkando com o(s) arquivo(s) banco/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/SilvioJunior/banco/result_linking.txt
+ - Arquivos Linkados: Erro! 4 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta main (máximo 1.66) - 0 de 30 - 0% de 1.66: 0.
+ -----
+ - Pasta completo / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta completo (máximo 1.66) - 0 de 30 - 0% de 1.66: 0.
+ -----
+ - Pasta agencia / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta agencia / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta agencia / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta agencia (máximo 1.67) - 0 de 30 - 0% de 1.67: 0.
+ -----
+ - Pasta vector / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 22, frees: 10, errors: 2 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 50.0% (desconto do valgrind) = 5.00 de 10 pontos.
+ - Pasta vector / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 31, frees: 13, errors: 1 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 50.0% (desconto do valgrind) = 5.00 de 10 pontos.
+ - Pasta vector / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/vector/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 17, frees: 8, errors: 1 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 50.0% (desconto do valgrind) = 5.00 de 10 pontos.
+ - Nota para a pasta vector (máximo 1.67) - 15.00 de 30 - 50.00% de 1.67: .83.
+ -----
+ - Pasta conta / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/conta/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 26, frees: 14, errors: 15 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta conta / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/conta/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 37, frees: 17, errors: 45 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta conta / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/conta/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 21, frees: 11, errors: 11 | Desconto do valgrind 50.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta conta (máximo 1.67) - 0 de 30 - 0% de 1.67: 0.
+ -----
+ - Pasta banco / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta banco / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta banco / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 50.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta banco (máximo 1.67) - 0 de 30 - 0% de 1.67: 0.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: SilvioJunior
+ - Arquivos Esperados Corretos: 9 de 9
+ - Pastas Compiladas Corretamente: 6 de 6 
+ - Pastas Linkadas Corretamente: 2 de 6
+ - Teste main
+ - Resultados corretos: 0 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste main: 0
+ - Teste completo
+ - Resultados corretos: 0 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste completo: 0
+ - Teste agencia
+ - Resultados corretos: 0 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste agencia: 0
+ - Teste vector
+ - Resultados corretos: 3 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste vector: .83
+ - Teste conta
+ - Resultados corretos: 0 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste conta: 0
+ - Teste banco
+ - Resultados corretos: 0 de 3
+ - Valgrinds corretos: 0 de 3
+ - Nota de SilvioJunior para o teste banco: 0
+ - Nota de SilvioJunior: 0+(0)+(.83)+(0)+(0)+(0)+(0)
+ - Nota de SilvioJunior: .83
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+
