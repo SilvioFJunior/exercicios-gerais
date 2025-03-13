@@ -1,0 +1,60 @@
+==174575== Memcheck, a memory error detector
+==174575== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==174575== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==174575== Command: Resultados/SilvioJunior/imagem/prog Resultados/SilvioJunior/imagem/Casos/1
+==174575== Parent PID: 174574
+==174575== 
+==174575== Invalid write of size 2
+==174575==    at 0x4852EB3: memmove (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==174575==    by 0x48F3EAA: memcpy (string_fortified.h:29)
+==174575==    by 0x48F3EAA: _IO_file_xsgetn (fileops.c:1296)
+==174575==    by 0x48E649A: fread (iofread.c:38)
+==174575==    by 0x109419: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==  Address 0x4a77c10 is 0 bytes after a block of size 2,256 alloc'd
+==174575==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==174575==    by 0x1093A3: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575== 
+==174575== Invalid write of size 1
+==174575==    at 0x485395D: mempcpy (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==174575==    by 0x48F3E6D: _IO_file_xsgetn (fileops.c:1304)
+==174575==    by 0x48E649A: fread (iofread.c:38)
+==174575==    by 0x109419: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==  Address 0x4a77c4f is 1 bytes before a block of size 2,000 alloc'd
+==174575==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==174575==    by 0x1093E3: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575== 
+==174575== Invalid read of size 4
+==174575==    at 0x109587: ImprimirImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109659: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==  Address 0x3ea6a6a73ea2a2a3 is not stack'd, malloc'd or (recently) free'd
+==174575== 
+==174575== 
+==174575== Process terminating with default action of signal 11 (SIGSEGV)
+==174575==  General Protection Fault
+==174575==    at 0x109587: ImprimirImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109659: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575== 
+==174575== HEAP SUMMARY:
+==174575==     in use at exit: 574,480 bytes in 286 blocks
+==174575==   total heap usage: 288 allocs, 2 frees, 579,048 bytes allocated
+==174575== 
+==174575== 564,000 bytes in 282 blocks are definitely lost in loss record 5 of 5
+==174575==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==174575==    by 0x1093E3: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==174575== 
+==174575== LEAK SUMMARY:
+==174575==    definitely lost: 564,000 bytes in 282 blocks
+==174575==    indirectly lost: 0 bytes in 0 blocks
+==174575==      possibly lost: 0 bytes in 0 blocks
+==174575==    still reachable: 10,480 bytes in 4 blocks
+==174575==         suppressed: 0 bytes in 0 blocks
+==174575== Reachable blocks (those to which a pointer was found) are not shown.
+==174575== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==174575== 
+==174575== For lists of detected and suppressed errors, rerun with: -s
+==174575== ERROR SUMMARY: 15714 errors from 4 contexts (suppressed: 0 from 0)

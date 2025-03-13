@@ -1,0 +1,65 @@
+==175469== Memcheck, a memory error detector
+==175469== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==175469== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==175469== Command: Resultados/SilvioJunior/imagem/prog Resultados/SilvioJunior/imagem/Casos/4
+==175469== Parent PID: 175468
+==175469== 
+==175469== Invalid write of size 2
+==175469==    at 0x4852EB3: memmove (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==175469==    by 0x48F3EAA: memcpy (string_fortified.h:29)
+==175469==    by 0x48F3EAA: _IO_file_xsgetn (fileops.c:1296)
+==175469==    by 0x48E649A: fread (iofread.c:38)
+==175469==    by 0x10937A: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==  Address 0x4a77cc0 is 0 bytes after a block of size 2,432 alloc'd
+==175469==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==175469==    by 0x109304: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469== 
+==175469== Invalid write of size 1
+==175469==    at 0x485395D: mempcpy (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==175469==    by 0x48F3E6D: _IO_file_xsgetn (fileops.c:1304)
+==175469==    by 0x48E649A: fread (iofread.c:38)
+==175469==    by 0x10937A: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==  Address 0x4a77cff is 1 bytes before a block of size 2,160 alloc'd
+==175469==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==175469==    by 0x109344: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469== 
+==175469== Invalid read of size 4
+==175469==    at 0x109548: ImprimirImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109659: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==  Address 0xcd000000cd is not stack'd, malloc'd or (recently) free'd
+==175469== 
+==175469== 
+==175469== Process terminating with default action of signal 11 (SIGSEGV)
+==175469==  Access not within mapped region at address 0xCD000000CD
+==175469==    at 0x109548: ImprimirImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109659: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==  If you believe this happened as a result of a stack
+==175469==  overflow in your program's main thread (unlikely but
+==175469==  possible), you can try to increase the size of the
+==175469==  main thread stack using the --main-stacksize= flag.
+==175469==  The main thread stack size used in this run was 8388608.
+==175469== 
+==175469== HEAP SUMMARY:
+==175469==     in use at exit: 667,296 bytes in 308 blocks
+==175469==   total heap usage: 310 allocs, 2 frees, 671,864 bytes allocated
+==175469== 
+==175469== 656,640 bytes in 304 blocks are definitely lost in loss record 5 of 5
+==175469==    at 0x484D953: calloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==175469==    by 0x109344: LerImagem (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469==    by 0x109627: main (in /mnt/c/Users/Silvio Junior/Desktop/UFES/UFES - Prog 2/exercicios-gerais/09_arquivo_binario/Arq_Bin_03/Resultados/SilvioJunior/imagem/prog)
+==175469== 
+==175469== LEAK SUMMARY:
+==175469==    definitely lost: 656,640 bytes in 304 blocks
+==175469==    indirectly lost: 0 bytes in 0 blocks
+==175469==      possibly lost: 0 bytes in 0 blocks
+==175469==    still reachable: 10,656 bytes in 4 blocks
+==175469==         suppressed: 0 bytes in 0 blocks
+==175469== Reachable blocks (those to which a pointer was found) are not shown.
+==175469== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==175469== 
+==175469== For lists of detected and suppressed errors, rerun with: -s
+==175469== ERROR SUMMARY: 16994 errors from 4 contexts (suppressed: 0 from 0)

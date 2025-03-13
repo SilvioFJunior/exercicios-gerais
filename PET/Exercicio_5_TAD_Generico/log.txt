@@ -1,0 +1,447 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: SilvioJunior
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA SilvioJunior:
+ - Diretório Resultados/SilvioJunior criado com sucesso!
+ - Diretório Resultados/SilvioJunior/livro criado com sucesso!
+ - Diretório Resultados/SilvioJunior/musica criado com sucesso!
+ - Diretório Resultados/SilvioJunior/pintura criado com sucesso!
+ - Diretório Resultados/SilvioJunior/midia criado com sucesso!
+ - Diretório Resultados/SilvioJunior/roteiro criado com sucesso!
+ - Diretório Resultados/SilvioJunior/completo criado com sucesso!
+ - Diretório Resultados/SilvioJunior/main criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/SilvioJunior/livro.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/livro.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/main.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/midia.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/midia.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/musica.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/musica.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/pintura.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/pintura.h' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/roteiro.c' encontrado!
+ - Arquivo esperado 'Respostas/SilvioJunior/roteiro.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta livro:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/livro
+ - Copiando os Includes/livro.h Includes/midia.h Includes/musica.h Includes/pintura.h Includes/roteiro.h do professor para a pasta Resultados/SilvioJunior/livro
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/livro
+ - Removendo o livro.o do professor da pasta Resultados/SilvioJunior/livro
+ - Copiando o Respostas/SilvioJunior/livro.c do aluno para a pasta Resultados/SilvioJunior/livro
+ - Pasta musica:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/musica
+ - Copiando os Includes/livro.h Includes/midia.h Includes/musica.h Includes/pintura.h Includes/roteiro.h do professor para a pasta Resultados/SilvioJunior/musica
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/musica
+ - Removendo o musica.o do professor da pasta Resultados/SilvioJunior/musica
+ - Copiando o Respostas/SilvioJunior/musica.c do aluno para a pasta Resultados/SilvioJunior/musica
+ - Pasta pintura:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/pintura
+ - Copiando os Includes/livro.h Includes/midia.h Includes/musica.h Includes/pintura.h Includes/roteiro.h do professor para a pasta Resultados/SilvioJunior/pintura
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/pintura
+ - Removendo o pintura.o do professor da pasta Resultados/SilvioJunior/pintura
+ - Copiando o Respostas/SilvioJunior/pintura.c do aluno para a pasta Resultados/SilvioJunior/pintura
+ - Pasta midia:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/midia
+ - Copiando os Includes/livro.h Includes/midia.h Includes/musica.h Includes/pintura.h Includes/roteiro.h do professor para a pasta Resultados/SilvioJunior/midia
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/midia
+ - Removendo o midia.o do professor da pasta Resultados/SilvioJunior/midia
+ - Copiando o Respostas/SilvioJunior/midia.c do aluno para a pasta Resultados/SilvioJunior/midia
+ - Pasta roteiro:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/roteiro
+ - Copiando os Includes/livro.h Includes/midia.h Includes/musica.h Includes/pintura.h Includes/roteiro.h do professor para a pasta Resultados/SilvioJunior/roteiro
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/roteiro
+ - Removendo o roteiro.o do professor da pasta Resultados/SilvioJunior/roteiro
+ - Copiando o Respostas/SilvioJunior/roteiro.c do aluno para a pasta Resultados/SilvioJunior/roteiro
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/livro.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/livro.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/midia.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/midia.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/musica.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/musica.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/pintura.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/pintura.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/roteiro.c do aluno para a pasta Resultados/SilvioJunior/completo
+ - Copiando os Respostas/SilvioJunior/roteiro.h do aluno para a pasta Resultados/SilvioJunior/completo
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/livro.h Includes/midia.h Includes/musica.h Includes/pintura.h Includes/roteiro.h do professor para a pasta Resultados/SilvioJunior/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/SilvioJunior/main
+ - Removendo o main.o do professor da pasta Resultados/SilvioJunior/main
+ - Copiando o Respostas/SilvioJunior/main.c do aluno para a pasta Resultados/SilvioJunior/main
+ - Copiando Arquivos Extras do Aluno:
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/livro
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/musica
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/pintura
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/midia
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/roteiro
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/completo
+ - Copiando Respostas/SilvioJunior/ps.c para Resultados/SilvioJunior/main
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta livro ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta musica ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta pintura ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta midia ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta roteiro ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta livro:
+ - Gerando o binário prog linkando com o(s) arquivo(s) livro/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/result_linking.txt
+ - Pasta musica:
+ - Gerando o binário prog linkando com o(s) arquivo(s) musica/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/result_linking.txt
+ - Pasta pintura:
+ - Gerando o binário prog linkando com o(s) arquivo(s) pintura/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/result_linking.txt
+ - Pasta midia:
+ - Gerando o binário prog linkando com o(s) arquivo(s) midia/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/result_linking.txt
+ - Pasta roteiro:
+ - Gerando o binário prog linkando com o(s) arquivo(s) roteiro/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/result_linking.txt
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/result_linking.txt
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta livro / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 16, frees: 16, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta livro / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 19, frees: 19, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta livro / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 16, frees: 16, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta livro / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta livro / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 45, frees: 45, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta livro / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 64, frees: 64, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta livro / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/livro/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 3, frees: 3, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta livro (máximo 1.0) - 70.00 de 70.0 - 100.00% de 1.0: 1.00.
+ -----
+ - Pasta musica / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 20, frees: 20, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta musica / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 29, frees: 29, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta musica / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 18, frees: 18, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta musica / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 13, frees: 13, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta musica / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 61, frees: 61, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta musica / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 98, frees: 98, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta musica / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/musica/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 3, frees: 3, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta musica (máximo 1.0) - 70.00 de 70.0 - 100.00% de 1.0: 1.00.
+ -----
+ - Pasta pintura / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 16, frees: 16, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta pintura / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 19, frees: 19, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta pintura / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 16, frees: 16, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta pintura / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta pintura / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 45, frees: 45, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta pintura / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 64, frees: 64, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta pintura / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/pintura/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 3, frees: 3, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta pintura (máximo 1.0) - 70.00 de 70.0 - 100.00% de 1.0: 1.00.
+ -----
+ - Pasta midia / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta midia / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta midia / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta midia / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta midia / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 33, frees: 33, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta midia / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 48, frees: 48, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta midia / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/midia/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 3, frees: 3, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta midia (máximo 3.0) - 70.00 de 70.0 - 100.00% de 3.0: 3.00.
+ -----
+ - Pasta roteiro / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11, frees: 11, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta roteiro / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 13, frees: 13, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta roteiro / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11, frees: 11, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta roteiro / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta roteiro / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 28, frees: 28, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta roteiro / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 41, frees: 41, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta roteiro / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/roteiro/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 4, frees: 4, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta roteiro (máximo 3.0) - 70.00 de 70.0 - 100.00% de 3.0: 3.00.
+ -----
+ - Pasta completo / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 27, frees: 27, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta completo / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 35, frees: 35, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta completo / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 25, frees: 25, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta completo / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 13, frees: 13, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta completo / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 80, frees: 80, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta completo / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 123, frees: 123, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta completo / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/completo/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 4, frees: 4, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta completo (máximo 0.5) - 70.00 de 70.0 - 100.00% de 0.5: .50.
+ -----
+ - Pasta main / Caso 1:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta main / Caso 2:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta main / Caso 3:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 12, frees: 12, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta main / Caso 4:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta main / Caso 5:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 33, frees: 33, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta main / Caso 6:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 48, frees: 48, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Pasta main / Caso 7:
+ - Arquivo de output gerado: Resultados/SilvioJunior/main/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 3, frees: 3, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10.0
+ - Nota para o Caso (soma dos pesos): 10.00 (soma total) - 0% (desconto do valgrind) = 10.00 de 10.0 pontos.
+ - Nota para a pasta main (máximo 0.5) - 70.00 de 70.0 - 100.00% de 0.5: .50.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: SilvioJunior
+ - Arquivos Esperados Corretos: 11 de 11
+ - Pastas Compiladas Corretamente: 7 de 7 
+ - Pastas Linkadas Corretamente: 7 de 7
+ - Teste livro
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste livro: 1.00
+ - Teste musica
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste musica: 1.00
+ - Teste pintura
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste pintura: 1.00
+ - Teste midia
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste midia: 3.00
+ - Teste roteiro
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste roteiro: 3.00
+ - Teste completo
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste completo: .50
+ - Teste main
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de SilvioJunior para o teste main: .50
+ - Nota de SilvioJunior: 0+(1.00)+(1.00)+(3.00)+(1.00)+(.50)+(.50)+(3.00)
+ - Nota de SilvioJunior: 10.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

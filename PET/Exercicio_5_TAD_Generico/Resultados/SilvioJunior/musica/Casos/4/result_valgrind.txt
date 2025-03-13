@@ -1,0 +1,15 @@
+==96250== Memcheck, a memory error detector
+==96250== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==96250== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==96250== Command: Resultados/SilvioJunior/musica/prog Resultados/SilvioJunior/musica/Casos/4
+==96250== Parent PID: 96249
+==96250== 
+==96250== 
+==96250== HEAP SUMMARY:
+==96250==     in use at exit: 0 bytes in 0 blocks
+==96250==   total heap usage: 13 allocs, 13 frees, 8,904 bytes allocated
+==96250== 
+==96250== All heap blocks were freed -- no leaks are possible
+==96250== 
+==96250== For lists of detected and suppressed errors, rerun with: -s
+==96250== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
